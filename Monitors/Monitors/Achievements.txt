@@ -1,0 +1,10 @@
+Jump
+Jumped Once
+Jump3
+Jumped three times
+Jump5
+Jumped five times
+WalkR
+Walked to the right of the screen
+WalkL
+Walked to the left of the screen

@@ -1,0 +1,5 @@
+Jump
+WalkL
+WalkR
+Jump3
+Jump5
